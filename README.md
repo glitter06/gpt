@@ -31,7 +31,3 @@ Contributions are welcome! If you have suggestions for improving the content or 
 
 - Special thanks to the Vite and React.js communities for providing tools and resources that make web development more accessible and efficient.
 - Gratitude to OpenAI for its groundbreaking work in artificial intelligence and natural language processing, which inspired this project.
-
----
-
-Feel free to adjust this template to better fit your project's needs and goals.
